@@ -1,0 +1,6 @@
+name = Unsaved Node Warning
+description = Node warning against navigating away from a node edit form before saving their changes.
+core = 6.x
+version = "6.x-1.0"
+
+
