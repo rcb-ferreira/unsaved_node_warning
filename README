@@ -1,0 +1,3 @@
+Node warning against navigating away from a node edit form before saving their changes.
+
+This module is still very much in development, so use with caution.
